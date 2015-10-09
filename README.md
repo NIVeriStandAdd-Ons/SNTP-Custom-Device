@@ -25,6 +25,10 @@ Users are allowed to build anything under Build Specifications in the source's L
 IP has been tested by developer.
 
 ### Dependencies ###
+This Custom-Device requires somes VIs from "Absolute Time" sub-palette in "Timed Structures" palette from "Structures" palette.
+These VIs are part of an installer which can be found here:
+https://decibel.ni.com/content/projects/ni-timesync-custom-time-reference
+Please NOTE that a manual copy must be made to have the VIs for 2013 version. A post at the bottom of the page explains the process for 2012, apply it but for 2013.
 
 ### License ###
 
